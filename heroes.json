@@ -1,0 +1,54 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Перший герой",
+      "description": "Перший герой рейтингу!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Невідомий герой",
+      "description": "Той що ховається в темряві",
+      "element": "wind"
+    },
+    {
+      "id": "631db8df-4676-496a-963a-07f4915ee005",
+      "name": "Iron Man",
+      "description": "Геній, філантроп, міліардер",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Всі",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Вогонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Повітря",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
